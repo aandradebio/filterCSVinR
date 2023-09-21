@@ -36,5 +36,7 @@ The header could be any string pattern. In my study, I use sequence headers.
 
    The script will remove rows containing "Header1," "Header2," and "Header3" from all ".csv.gz" files in the current directory and save the filtered files with "_filtered.csv.gz" appended to their names.
 
-
+## Author
+Amanda Araújo Serrão de Andrade
+aandradebio@gmail.com
 
