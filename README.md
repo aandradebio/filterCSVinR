@@ -40,3 +40,4 @@ The header could be any string pattern. In my study, I use sequence headers.
 Amanda Araújo Serrão de Andrade
 aandradebio@gmail.com
 
+Feel free to contact me, open an issue, or a pull request.
